@@ -38,7 +38,7 @@ Follow these steps to set up and run the application locally:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/anurup1207/Ai-Planet-Assignment.git
+    git clone https://github.com/Rohit9568/AI-Planet-Assignment.git
     cd Ai-Planet-Assignment
     ```
 
@@ -166,16 +166,16 @@ The application follows a client-server architecture:
     ![First Page](./Images/1.PNG)
 
 2.  **Upload a PDF document**: Click the upload area or button to select a PDF file.
-    ![Upload a PDF](./Images/2.PNG)
+    ![Upload a PDF](./Images/22.PNG)
 
 3.  **Wait for processing**: The system will process the PDF and prepare it for questioning.
-    ![PDF Uploaded](./Images/3.PNG)
+    ![PDF Uploaded](./Images/33.PNG)
 
 4.  **Ask questions**: Once the PDF is ready, type your question into the chat interface or use the microphone icon for speech-to-text.
-    ![Ask a Question](./Images/4.PNG)
+    ![Ask a Question](./Images/44.PNG)
 
 5.  **Receive answers**: The application will display the answer based on the PDF's content.
-    ![Ask the follow up questions](./Images/5.PNG)
+    ![Ask the follow up questions](./Images/55.PNG)
 
 6.  **Ask follow-up questions**: Continue the conversation by asking more questions about the same document.
 
