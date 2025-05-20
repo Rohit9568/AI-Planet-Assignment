@@ -1,0 +1,21 @@
+.avatar {
+    font-size: 14px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #B0ACE9;
+    margin-right: 30px;
+    margin-top: 5px;
+  }
+  
+  .avatar::after {
+    font-size: 26px;
+    content: attr(data-label);
+    font-family: "Readex Pro", sans-serif;
+    color: #ffffff;
+  }
+  

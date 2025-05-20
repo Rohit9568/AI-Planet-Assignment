@@ -1,0 +1,87 @@
+.chat-box{
+    height: 100%;
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+.message-display{
+    height: 70vh;
+    width: 100%;
+    padding-top:3rem ;
+    overflow-y: auto;
+    
+    
+}
+.message-display::-webkit-scrollbar {
+    width: 1px;
+    opacity: 30;
+  }
+.input{
+    width: 100%;
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    border-radius: 8px;
+    display: flex;
+    background-color: #E4E8EE;
+    
+
+}
+.input-section{
+    width: 92%;
+    height: 56px;
+    border: none;
+    background-color: #E4E8EE;
+    outline: none;
+    padding-left: 25px;
+    border-radius: 8px;
+    font-size: 14px;
+    
+
+
+}
+
+.send-button{
+    background-color: #E4E8EE;
+    border: none;
+    width: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+.text-to-audio{
+    background-color:#E4E8EE ;
+    width: 30px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: #4c4e4f;
+    cursor: pointer;
+}
+.upload-text{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: "Inter";
+    font-weight: 800;
+    color: #ced0d4;
+    text-align: center;
+}
+
+@media only screen and (max-width:640px){
+    .chat-box{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .input-section{
+        height: 48px;
+        
+
+    }
+    .send-button{
+        width: 80px;
+    }
+}
