@@ -38,7 +38,7 @@ Follow these steps to set up and run the application locally:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/anurup1207/Ai-Planet-Assignment.git](https://github.com/anurup1207/Ai-Planet-Assignment.git)
+    git clone https://github.com/anurup1207/Ai-Planet-Assignment.git
     cd Ai-Planet-Assignment
     ```
 
