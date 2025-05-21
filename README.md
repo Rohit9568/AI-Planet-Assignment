@@ -18,6 +18,13 @@ To develop a full-stack application enabling users to:
 * **💡 Answer Display**: The system processes the question and the PDF content to provide relevant answers.
 * **🔄 Follow-up Questions**: Users can ask follow-up or new questions on the same document.
 
+---
+
+## 🎬 Demo Video
+
+Watch a demonstration of the application in action:
+
+* **[(https://drive.google.com/file/d/1CQbfwwTPbM8ADzM_XstRPO7ZWFjA9lXv/view?usp=sharing)]** (👈 *Insert your Google Drive link here*)
 
 ---
 
@@ -38,7 +45,7 @@ Follow these steps to set up and run the application locally:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/Rohit9568/AI-Planet-Assignment.git
+    git clone [https://github.com/Rohit9568/AI-Planet-Assignment.git](https://github.com/Rohit9568/AI-Planet-Assignment.git)
     cd Ai-Planet-Assignment
     ```
 
@@ -51,11 +58,11 @@ Follow these steps to set up and run the application locally:
 
     # Supabase (PostgreSQL) Credentials
     # These are your Supabase project's database connection details
-    DB_USER=your_supabase_db_user         # e.g., postgres
+    DB_USER=your_supabase_db_user        # e.g., postgres
     DB_PSWD=your_supabase_db_password
-    DB_HOST=your_supabase_db_host         # e.g., db.yourprojectid.supabase.co
-    DB_PORT=your_supabase_db_port         # e.g., 5432
-    DB_NAME=your_supabase_db_name         # e.g., postgres
+    DB_HOST=your_supabase_db_host        # e.g., db.yourprojectid.supabase.co
+    DB_PORT=your_supabase_db_port        # e.g., 5432
+    DB_NAME=your_supabase_db_name        # e.g., postgres
     ```
     * Replace placeholders with your actual OpenAI API key and Supabase database credentials.
     * No specific `.env` is mentioned for the frontend in your original README, but if your React app needs environment variables (e.g., for the backend API URL if it's not `/api`), create a `.env` file in the `Frontend` directory with `REACT_APP_` prefixes.
@@ -192,7 +199,7 @@ The application follows a client-server architecture:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Please feel free to check the [issues page](https://github.com/anurup1207/Ai-Planet-Assignment/issues).
+Contributions, issues, and feature requests are welcome! Please feel free to check the [issues page](https://github.com/Rohit9568/AI-Planet-Assignment/issues).
 
 ---
 
