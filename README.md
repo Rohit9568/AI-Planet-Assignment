@@ -24,7 +24,7 @@ To develop a full-stack application enabling users to:
 
 Watch a demonstration of the application in action:
 
-* **[(https://drive.google.com/file/d/1CQbfwwTPbM8ADzM_XstRPO7ZWFjA9lXv/view?usp=sharing)]** (👈 *Insert your Google Drive link here*)
+* **https://drive.google.com/file/d/1CQbfwwTPbM8ADzM_XstRPO7ZWFjA9lXv/view?usp=sharing** 
 
 ---
 
